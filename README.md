@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👾 Lenguages: PHP, Java, JavaScript, C#
+
 ![html](https://github.com/user-attachments/assets/65c97774-c0ca-433a-8477-fa805aa0dec5)
 ![social](https://github.com/user-attachments/assets/89ccfcbd-4695-4181-89c5-ed0766a3e71b)
 ![java](https://github.com/user-attachments/assets/c880e2d0-7a1a-4876-8f0e-475d40bac814)
