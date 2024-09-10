@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👾 Lenguages: PHP, Java, JavaScript, C#
+- I'm Studying in EEST N°1
+- 
 
 ![html](https://github.com/user-attachments/assets/65c97774-c0ca-433a-8477-fa805aa0dec5)
 ![social](https://github.com/user-attachments/assets/89ccfcbd-4695-4181-89c5-ed0766a3e71b)
